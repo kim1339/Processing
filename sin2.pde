@@ -1,12 +1,12 @@
-//SIN WAVE
+// this program draws a SIN WAVE
 int x_spacing = 5;   // spacing b/w each ellipse
-int w;              // width of entire wave
+int w;               // width of entire wave
 
 float theta = 0.0; 
 float amplitude = 50.0;
 float period = 250.0; 
 float increment_x;
-float[] y_values;  // array that stores height values of the wave
+float[] y_values;    // array that stores height values of the wave
 
 void setup() {
   size(600, 300);
