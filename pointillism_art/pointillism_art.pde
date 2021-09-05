@@ -2,7 +2,7 @@
 // the size of the dots (ellipses) are based on the horizontal location of the mouse
 // the colors of the dots are based on the colors of corresponding pixels in the image
 
-//declaring variable types
+// declaring variable types
 PImage pic;
 int small_dot, large_dot;
 float dot, x, y;
