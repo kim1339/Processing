@@ -1,2 +1,2 @@
 # Processing
-Repo of creative coding and generative art works
+Repo of some Processing projects & exercises (topics include geometry, animation, computer vision, generative/recursive/fractal/random art, Object-Oriented Programming, kinematics, etc.)
