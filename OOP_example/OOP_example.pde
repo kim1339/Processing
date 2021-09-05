@@ -1,3 +1,5 @@
+// this example program is used to teach Object-Oriented Programming concepts
+
 // create empty array
 Circle[] circles = new Circle[15];
 
