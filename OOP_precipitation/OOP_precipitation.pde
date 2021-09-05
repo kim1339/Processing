@@ -1,3 +1,5 @@
+// rainfall simulation used to teach OOP concepts
+
 int numDrops = 14;
 Rain[] drops = new Rain[numDrops]; // declare and create the array
 
